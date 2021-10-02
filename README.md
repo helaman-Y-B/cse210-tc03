@@ -1,4 +1,5 @@
 # cse210-tc03
+CSE210 activities
 
 Helamã Yamashita Barbour
 
