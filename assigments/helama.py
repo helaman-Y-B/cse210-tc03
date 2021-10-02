@@ -7,8 +7,8 @@ def greeting():
 
 
 def little():
-    number1 = input(int("Input a number:"))
-    number2 = input(int("Input another a number:"))
+    number1 = int(input("Input a number:"))
+    number2 = int(input("Input another a number:"))
 
     return number1 + number2
 
