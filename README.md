@@ -1,6 +1,6 @@
 # cse210-tc03
 CSE210 activities
 
-James Charlie Salva
+Helamã Yamashita Barbour
 
-Hi, I am James Charlie Salva. I live in the Philippines. I am a fast learner and I am dependable. I love to have interaction with the technology because I know it is cool
+I live in Brazil and love to play videogames, I also like to cook, and i'm currently studing at BYU-IDAHO online, I love BYU.
